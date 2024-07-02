@@ -11,8 +11,6 @@ habla(hernan, aleman).
 seComunican(Persona,OtraPersona):- habla(Persona,Idioma), habla(OtraPersona,Idioma), Persona \= OtraPersona.
 
 
-
-
 quiere(juan ,playa).
 quiere(juan , wifi).
 quiere(juan , teatro).
